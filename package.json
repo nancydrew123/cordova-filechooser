@@ -1,9 +1,9 @@
 {
-"name": "com.megster.cordova.FileChooser.nancydrew",
+"name": "com.megster.cordova.fileChooser.nancydrew",
 "version": "1.0.0",
 "description": "File Chooser for Cordova/Phonegap",
 "cordova": {
-"id": "com.megster.cordova.FileChooser.nancydrew",
+"id": "com.megster.cordova.fileChooser.nancydrew",
 "platforms": [
 "android"
 ]
