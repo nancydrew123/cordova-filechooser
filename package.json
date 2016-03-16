@@ -1,0 +1,36 @@
+{
+"name": "com.megster.cordova.FileChooser.nancydrew",
+"version": "1.0.0",
+"description": "File Chooser for Cordova/Phonegap",
+"cordova": {
+"id": "com.megster.cordova.FileChooser.nancydrew",
+"platforms": [
+"android"
+]
+},
+"repository": {
+"type": "git",
+"url": "git+https://github.com/nancydrew123/cordova-filechooser.git"
+},
+"keywords": [
+"cordova",
+"filechooser",
+"android",
+"filepicker",
+"phonegap",
+"ecosystem:cordova",
+"cordova-android"
+],
+"engines": [
+{
+"name": "cordova",
+"version": ">=3.0.0"
+}
+],
+"author": "",
+"license": "MIT",
+"bugs": {
+"url": "https://github.com/nancydrew123/cordova-filechooser/issues"
+},
+"homepage": "https://github.com/nancydrew123/cordova-filechooser#readme"
+}
